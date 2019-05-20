@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/radio.c
+radio.h
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/radio.h
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+stdbool.h
+-
+
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/radio.h
+

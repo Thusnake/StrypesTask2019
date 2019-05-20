@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" "/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/cmake-build-wsl_release

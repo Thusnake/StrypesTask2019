@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g -O3 -DNDEBUG   CMakeFiles/radio_exec.dir/radio.c.o CMakeFiles/radio_exec.dir/main.c.o  -o radio_exec 

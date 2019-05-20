@@ -1,0 +1,4 @@
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/cmake-build-wsl_release/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/cmake-build-wsl_release/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/cmake-build-wsl_release/CMakeFiles/radio.dir
+/mnt/c/Users/Nick/Desktop/Sideprojects/Application/Strypes task/cmake-build-wsl_release/CMakeFiles/radio_exec.dir

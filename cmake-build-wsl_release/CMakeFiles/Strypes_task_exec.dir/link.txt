@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra -g -O3 -DNDEBUG   CMakeFiles/Strypes_task_exec.dir/radio.c.o CMakeFiles/Strypes_task_exec.dir/main.c.o  -o Strypes_task_exec 
